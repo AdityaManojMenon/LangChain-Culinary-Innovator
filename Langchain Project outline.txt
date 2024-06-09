@@ -1,0 +1,15 @@
+The "Restaurant Name Generator" is a Streamlit-based application that leverages OpenAI's language model to generate a fancy restaurant name and menu items based on the selected cuisine. 
+The project involves creating a user interface in Streamlit, defining helper functions to interact with the OpenAI API, and chaining prompts to generate the desired outputs.
+
+Steps to Create the Project:
+1. Install required libraries: Streamlit, OpenAI, and LangChain.
+2. Ensure the secret_key.py file contains the OpenAI API key for secure access.
+3. Create a simple Streamlit interface with a dropdown to select the cuisine.
+4. Display the generated restaurant name and menu items.
+5. I created a seperate file for the helper function which is responsible for making calls to OpenAI API to use the gpt LLM for the project based 
+what the user decides the cuisine type to be. The same can be achieved with creating helper function in the same file.
+6. Define functions to generate the restaurant name and menu items using LangChain.
+
+Conclusoin:
+The project involves setting up a Streamlit interface for user input, defining helper functions to interact with OpenAI's API, and chaining prompts to generate a restaurant name and menu items based on the selected cuisine. 
+The application provides a user-friendly interface to generate creative restaurant names and menu items efficiently.
