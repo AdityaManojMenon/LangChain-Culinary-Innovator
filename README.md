@@ -5,7 +5,7 @@ This Streamlit-based application uses OpenAI's language model to generate creati
 
 
 
-![Uploading Untitled video - Made with Clipchamp (4).gif…]()
+
 
 
 
