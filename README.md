@@ -8,4 +8,8 @@ This Streamlit-based application uses OpenAI's language model to generate creati
 
 
 
+https://github.com/AdityaManojMenon/LangChain-Culinary-Innovator/assets/143031124/42020b10-71ec-4cf3-b90a-137d70db19ec
+
+
+
 
